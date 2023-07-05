@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Research Paper</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 2cm;
+    }
+
+    h1 {
+      text-align: center;
+    }
+
+    h2 {
+      margin-bottom: 10px;
+    }
+
+    p {
+      margin-bottom: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Research Paper Title</h1>
+
+  <h2>Abstract</h2>
+  <p>
+    <!-- Abstract content goes here -->
+  </p>
+
+  <h2>Introduction</h2>
+  <p>
+    <!-- Introduction content goes here -->
+  </p>
+
+  <h2>Literature Review</h2>
+  <p>
+    <!-- Literature review content goes here -->
+  </p>
+
+  <h2>Methodology</h2>
+  <p>
+    <!-- Methodology content goes here -->
+  </p>
+
+  <h2>Results</h2>
+  <p>
+    <!-- Results content goes here -->
+  </p>
+
+  <h2>Discussion</h2>
+  <p>
+    <!-- Discussion content goes here -->
+  </p>
+
+  <h2>Conclusion</h2>
+  <p>
+    <!-- Conclusion content goes here -->
+  </p>
+
+  <h2>References</h2>
+  <p>
+    <!-- References content goes here -->
+  </p>
+</body>
+</html>
